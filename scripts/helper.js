@@ -1,6 +1,6 @@
 class Helper {
 constructor(song) {
-  this.song = song; 
+  this.song = song;
 }
   playPauseAndUpdate(song) {
     const totalTimeElement = $('.total-time');
